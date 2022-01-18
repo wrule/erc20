@@ -2,6 +2,11 @@
   "name": "erc20",
   "version": "0.1.0",
   "main": "index.js",
+  "scripts": {
+    "build": "truffle compile",
+    "test": "truffle test",
+    "migrate": "truffle migrate"
+  },
   "repository": "https://github.com/wrule/erc20.git",
   "license": "MIT",
   "private": false
