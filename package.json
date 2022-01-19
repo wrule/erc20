@@ -12,6 +12,7 @@
   "private": false,
   "dependencies": {
     "@openzeppelin/contracts": "^4.4.2",
+    "@truffle/hdwallet-provider": "^2.0.0",
     "rimraf": "^3.0.2"
   }
 }
